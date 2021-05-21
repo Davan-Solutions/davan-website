@@ -9,7 +9,6 @@ baseurl: /blog
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'davan-solutions-blog'
 # mailchimp-list: ''
-include: ["_pages"]
 permalink: /:title/
 email: info@davan.solutions
 
@@ -70,5 +69,12 @@ authorbox: "enabled"
 sass:
   sass_dir: _sass
   style: compressed
+
+  
+include: [
+  "_pages",
+  "_posts",
+  "assets",
+  ]
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
