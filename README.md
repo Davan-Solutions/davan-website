@@ -1,2 +1,2 @@
 # davan-website
-Personal business website of David Vanderheyden
+Personal blog and resume website of David Vanderheyden
