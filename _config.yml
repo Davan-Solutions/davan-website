@@ -6,6 +6,7 @@ logo: 'assets/images/Icon-512x512.png'
 logo_full: 'assets/images/Logo_Neutral.png'
 favicon: 'assets/images/favicon-32x32.png'
 baseurl: /blog
+url: https://davan.solutions
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'davan-solutions-blog'
 # mailchimp-list: ''
