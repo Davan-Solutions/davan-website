@@ -5,7 +5,7 @@ description: "Join me on my journey to explore all new and old in the fabulous w
 logo: 'assets/images/Icon-512x512.png'
 logo_full: 'assets/images/Logo_Neutral.png'
 favicon: 'assets/images/favicon-32x32.png'
-baseurl: /blog
+baseurl: /
 url: https://davan.solutions
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'davan-solutions-blog'
